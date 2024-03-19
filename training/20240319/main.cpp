@@ -1,3 +1,4 @@
+// https://atcoder.jp/contests/abc345/tasks/abc345_a
 #include <iostream>
 #include <regex>
 using namespace std;
